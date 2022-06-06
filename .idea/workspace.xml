@@ -105,7 +105,7 @@
       <recent name="C:\Users\Алина\IdeaProjects\apiCi\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.apiCi [test]">
+  <component name="RunManager" selected="Gradle.apiCi [build]">
     <configuration name="apiCi [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -150,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.apiCi [test]" />
         <item itemvalue="Gradle.apiCi [build]" />
+        <item itemvalue="Gradle.apiCi [test]" />
       </list>
     </recent_temporary>
   </component>
